@@ -14,7 +14,7 @@ To run this project, you need to have Python installed on your machine. You can 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/hand-gesture-recognition.git
+   git clone https://github.com/ibrahim-ahmed1678/hand-gesture-recognition.git
    cd hand-gesture-recognition
    ```
 
@@ -38,7 +38,3 @@ To run this project, you need to have Python installed on your machine. You can 
 
 - opencv-python
 - mediapipe
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
