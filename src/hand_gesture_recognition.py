@@ -20,8 +20,6 @@ def recognize_gesture(landmarks):
         return "Pointing Up"
     elif landmarks[8][2] < landmarks[6][2] and landmarks[12][2] < landmarks[10][2]:
         return "Open Palm"
-    elif landmarks[12][2] < landmarks[10][2] and landmarks[8][2] > landmarks[6][2] and landmarks[16][2] > landmarks[14][2] and landmarks[20][2] > landmarks[18][2]:
-        return "Fuck You"
     else:
         return "Unknown"
 
